@@ -54,7 +54,7 @@ article a{padding: 1em; display: inline-block;}
 header {
   margin: 0;
   padding: 1.5em;
-  background: #85AB18 url(../images/interfaceImages/banner-background.png) no-repeat -200px; center;/*swap out with smaller image in real world*/
+  background: #85AB18 url(../images/interfaceImages/banner-background.png) no-repeat -200px center;/*swap out with smaller image in real world*/
   -webkit-background-size: cover;
   -mox-background-size: cover;
   -o-background-size: cover;
